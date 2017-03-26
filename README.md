@@ -1,17 +1,10 @@
 
-# Elegant-GRUB2 theme
+# Hdgh0g-GRUB2 Theme
 
 My version of Arch-Silence GRUB2 theme.
 
 <img src="./preview.png" width="400">
 (sorry for potato screenshot)
-
-## Font
-
-The font in the boot menu can't be changed because of GRUB.
-
-GRUB does have a conversion tool from ttf to it's own format but this format encodes each pixel with 1 bit
-which makes it completely useless since there's practically no font that is readable in such a low bit-depth.
 
 ## License
 
@@ -19,7 +12,7 @@ If not explicitly stated otherwise all the files in this project are distributed
 
 ## Author
 
-Maximilien Gilet
+Aleksandr Krylov
 
 ## Forked from
 
